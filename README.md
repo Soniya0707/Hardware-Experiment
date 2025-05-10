@@ -18,6 +18,7 @@
 
 ## Line encoding
 
+![soni linecode](https://github.com/user-attachments/assets/9eed328c-7118-491b-b064-5f8f851bce53)
 
 
 
